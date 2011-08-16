@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/gui/panel"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="AllItemPanel.java"
+   revision="72"
+   checksum="c4be381ed02cd282fb2ac86accd1d43c"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:29:41.906000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="DocumentPanel.java"
+   revision="72"
+   checksum="6eaa6e27298c9869a26099ca7ec132c1"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:31:16.906000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="HiddenObjectsPanel.java"
+   revision="72"
+   checksum="a0adc81b6958673e9c57caab485c2730"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:31:25.484000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="ItemDetailPanel.java"
+   revision="72"
+   checksum="43ecd699264f07e67d8bf575d25b0764"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:22:30.640000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="MyFolderPanel.java"
+   revision="40"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="OtherFilesPanel.java"
+   revision="72"
+   checksum="25ec619e295e3e00fc2b53f64e50495b"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:31:39.812000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="PresentationPanel.java"
+   revision="72"
+   checksum="0aafa2d2438a00ea7984fa1faea198d1"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:31:55.875000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="SharedWithMePanel.java"
+   revision="52"
+   checksum="622295828b16a2290862130d2949f075"
+   last-author="BarryWey@gmail.com"
+   committed-rev="52"
+   text-time="2011-03-30T07:55:27.125000Z"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="SpreadsheetPanel.java"
+   revision="72"
+   checksum="c63880bdaebf405a07040d2ca89a8e82"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:32:03.171000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="StaredObjectsPanel.java"
+   revision="72"
+   checksum="a502cf786984e61d17beda2dff68ca50"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:32:10.390000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="TrashedObjectsPanel.java"
+   revision="72"
+   checksum="7aa3686ea872e3d39838fed5de7f6f21"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:32:17.515000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+</wc-entries>

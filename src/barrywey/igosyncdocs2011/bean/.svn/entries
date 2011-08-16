@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/bean"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="MyDocumentListEntry.java"
+   revision="52"
+   checksum="49234ba3680152653de5bc1e8c5fab1c"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-03-30T08:07:39.640000Z"
+   committed-rev="52"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="SystemRuntime.java"
+   revision="71"
+   checksum="be6462c02a6646f587257bf0c9e567fa"
+   last-author="BarryWey@gmail.com"
+   committed-rev="71"
+   text-time="2011-04-22T06:05:53.515000Z"
+   kind="file"
+   committed-date="2011-04-22T06:09:50.798000Z"/>
+<entry
+   name="UserSettings.java"
+   checksum="980fd11f9fdda9c3d7bc2b6c31019900"
+   last-author="BarryWey@gmail.com"
+   committed-rev="36"
+   text-time="2011-02-06T16:18:23.718000Z"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+</wc-entries>

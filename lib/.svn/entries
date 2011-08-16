@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="0"
+   schedule="add"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/lib"
+   kind="dir"/>
+<entry
+   name="gdata-client-1.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="gdata-client-meta-1.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="gdata-core-1.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="gdata-docs-3.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="gdata-docs-meta-3.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="gdata-media-1.0.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="google-collect-1.0-rc1.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="mail.jar"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="synthetica.jar"
+   schedule="add"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/net"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="IGoSyncDocsDao.java"
+   revision="60"
+   checksum="b3b7b76dc9e3f582f953a4aceb8b3683"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-03-31T08:57:12.359000Z"
+   committed-rev="60"
+   kind="file"
+   committed-date="2011-04-02T07:52:59.960000Z"/>
+<entry
+   name="impl"
+   kind="dir"/>
+</wc-entries>

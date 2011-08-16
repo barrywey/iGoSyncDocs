@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/gui/dialog"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="AboutDialog.java"
+   revision="66"
+   checksum="8196cb97d01eb92a19b30f5f3839ce53"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-06T07:11:08.656000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2011-04-06T07:32:12.897000Z"/>
+<entry
+   name="ConfirmActionDialog.java"
+   revision="71"
+   checksum="bfeae24bdd25c051e078ec112ab3253a"
+   last-author="BarryWey@gmail.com"
+   committed-rev="71"
+   text-time="2011-04-22T05:54:28.843000Z"
+   kind="file"
+   committed-date="2011-04-22T06:09:50.798000Z"/>
+<entry
+   name="ShareItemDialog.java"
+   revision="71"
+   checksum="a53c99dc2c4d32b4131851087449a843"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-22T05:55:23.796000Z"
+   committed-rev="71"
+   kind="file"
+   committed-date="2011-04-22T06:09:50.798000Z"/>
+<entry
+   name="SplashProgressDialog.java"
+   checksum="8bce205b6f5bf6fd078d50e8e9d136f7"
+   last-author="BarryWey@gmail.com"
+   committed-rev="36"
+   text-time="2011-02-06T16:30:12.125000Z"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="UploadFileProcessDialog.java"
+   revision="71"
+   kind="file"
+   deleted="true"/>
+</wc-entries>

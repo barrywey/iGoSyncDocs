@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/gui/util"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="FaceUtils.java"
+   revision="51"
+   checksum="6b282cb4c58531abe4d294d273361fb6"
+   last-author="BarryWey@gmail.com"
+   committed-rev="51"
+   text-time="2011-03-25T07:19:45.546000Z"
+   kind="file"
+   committed-date="2011-03-25T08:14:18.036000Z"/>
+</wc-entries>

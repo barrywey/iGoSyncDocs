@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/gui/renderer"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="AclTableCellRenderer.java"
+   revision="50"
+   checksum="a7553b85dbfe290b5e334d3841189d26"
+   last-author="BarryWey@gmail.com"
+   committed-rev="50"
+   text-time="2011-03-03T06:03:56.578000Z"
+   kind="file"
+   committed-date="2011-03-03T07:18:20.516000Z"/>
+<entry
+   name="ConfirmListRenderer.java"
+   revision="52"
+   checksum="aa207cac66d5af4d7c0130f3a0f14606"
+   last-author="BarryWey@gmail.com"
+   committed-rev="52"
+   text-time="2011-03-30T08:10:58.812000Z"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="EntityTableCellRenderer.java"
+   revision="52"
+   checksum="2b62d963e684cc6de0422bf29e15e086"
+   last-author="BarryWey@gmail.com"
+   committed-rev="52"
+   text-time="2011-03-30T08:11:18.250000Z"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="UploadFileListCellRenderer.java"
+   revision="46"
+   checksum="655ba20225ce688c65422e21a9c43731"
+   last-author="BarryWey@gmail.com"
+   committed-rev="46"
+   text-time="2011-02-20T13:19:32.500000Z"
+   kind="file"
+   committed-date="2011-02-20T13:30:25.444000Z"/>
+</wc-entries>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/resource"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="ImageResource.java"
+   checksum="74577cee6a89904557733ac0ec133450"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-02-06T16:37:50.218000Z"
+   committed-rev="36"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="LanguageResource.java"
+   revision="69"
+   checksum="dc294e4fae24f087b93438e57346cf6d"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-06T08:23:50.640000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2011-04-06T08:23:24.454000Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="image"
+   kind="dir"/>
+<entry
+   name="lang"
+   kind="dir"/>
+</wc-entries>

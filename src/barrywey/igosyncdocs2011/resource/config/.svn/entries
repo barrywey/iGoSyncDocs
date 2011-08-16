@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/resource/config"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="settings.pro"
+   checksum="c08b5e793f70f5279c50c2f0c11a84ed"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-02-06T15:03:06.125000Z"
+   committed-rev="36"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+</wc-entries>

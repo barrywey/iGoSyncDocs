@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/action"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="AboutDialogAction.java"
+   revision="66"
+   checksum="b4d1e18b14aeab9f144c338ffc67d3df"
+   last-author="BarryWey@gmail.com"
+   committed-rev="66"
+   text-time="2011-04-06T07:11:26.109000Z"
+   kind="file"
+   committed-date="2011-04-06T07:32:12.897000Z"/>
+<entry
+   name="AppExitAction.java"
+   revision="61"
+   checksum="86ee8184c9cad57fc9406268659e32d4"
+   last-author="BarryWey@gmail.com"
+   committed-rev="61"
+   text-time="2011-04-05T16:55:27.968000Z"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="ChangeLanguageAction.java"
+   revision="65"
+   checksum="4cf06d46c48ecbff9a7f099423ecbf27"
+   last-author="BarryWey@gmail.com"
+   committed-rev="65"
+   text-time="2011-04-06T06:11:22.328000Z"
+   kind="file"
+   committed-date="2011-04-06T06:20:52.786000Z"/>
+<entry
+   name="ClickOnDocumentTableAction.java"
+   revision="40"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="CreateNewAction.java"
+   revision="61"
+   checksum="398d330d27fb34e7fc14831f99075c4c"
+   last-author="BarryWey@gmail.com"
+   committed-rev="61"
+   text-time="2011-04-05T16:16:54.015000Z"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="DeleteItemAction.java"
+   revision="61"
+   checksum="0aa74b14c3d142574b83914885ae973b"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:22:48.312000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="DownloadFilesAction.java"
+   revision="61"
+   checksum="45125c3900a6396403f69f8cb7b6a88e"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:23:03.203000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="HideItemAction.java"
+   revision="61"
+   checksum="a9af8f8d9d33231e0210653ad66785f3"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:23:14.640000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="LoginAction.java"
+   checksum="0ab37ae5e0c526ce1d3eb41d7e148515"
+   last-author="BarryWey@gmail.com"
+   committed-rev="36"
+   text-time="2011-02-06T16:22:42.171000Z"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="RefreshItemAction.java"
+   revision="61"
+   checksum="5da714004c8d70f4b27c1867cd5b8e1c"
+   last-author="BarryWey@gmail.com"
+   committed-rev="61"
+   text-time="2011-04-05T16:23:58.328000Z"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="SearchItemAction.java"
+   revision="64"
+   checksum="28439f159f34114dbdf325883e71da90"
+   last-author="BarryWey@gmail.com"
+   committed-rev="64"
+   text-time="2011-04-06T05:44:13.000000Z"
+   kind="file"
+   committed-date="2011-04-06T05:51:29.245000Z"/>
+<entry
+   name="ShareItemAction.java"
+   revision="61"
+   checksum="b532cd4ec9784e722ed2a6058ae06e5c"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:24:10.078000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="ShowConfirmDialogAction.java"
+   revision="60"
+   checksum="d175e090275d2ee14c095a77d1c95abd"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-03-31T08:26:39.312000Z"
+   committed-rev="60"
+   kind="file"
+   committed-date="2011-04-02T07:52:59.960000Z"/>
+<entry
+   name="StarItemAction.java"
+   revision="61"
+   checksum="32272528b60f2cfe408ff342319b453a"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:24:20.234000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="SystemTrayAction.java"
+   checksum="21101c49fa4ba960575d99c93918ae9e"
+   last-author="BarryWey@gmail.com"
+   committed-rev="36"
+   text-time="2011-02-06T16:23:48.296000Z"
+   kind="file"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="TrashItemAction.java"
+   revision="61"
+   checksum="e33f60af629927e39e61b22e82971a84"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:24:33.203000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="UnhideItemAction.java"
+   revision="61"
+   checksum="9a1e7ad1d87cea50ff4e5e1d8a6e5a88"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:24:43.734000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="UnstarItemAction.java"
+   revision="61"
+   checksum="ec064ba7b80128551262b2bbe0c02a4f"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-05T16:24:53.671000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="UntrashItemAction.java"
+   revision="61"
+   checksum="bbe55aaed854e6d018f6fd735faabbaf"
+   last-author="BarryWey@gmail.com"
+   committed-rev="61"
+   text-time="2011-04-05T16:25:03.437000Z"
+   kind="file"
+   committed-date="2011-04-05T16:57:13.062000Z"/>
+<entry
+   name="UploadFilesAction.java"
+   revision="71"
+   checksum="928053c439ae141ec9f81fc91cc47140"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-22T06:07:35.890000Z"
+   committed-rev="71"
+   kind="file"
+   committed-date="2011-04-22T06:09:50.798000Z"/>
+<entry
+   name="ViewOnlineAction.java"
+   revision="53"
+   checksum="5fafcf076419f233cced19660129c974"
+   last-author="BarryWey@gmail.com"
+   committed-rev="53"
+   text-time="2011-03-31T04:18:20.453000Z"
+   kind="file"
+   committed-date="2011-03-31T04:19:30.792000Z"/>
+</wc-entries>

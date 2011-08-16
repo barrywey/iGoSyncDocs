@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://igosyncdocs.googlecode.com/svn"
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/gui/model"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="AclEntryTableModel.java"
+   revision="52"
+   checksum="e618f069d7b16dd091a23016309e14e7"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-03-30T07:51:59.328000Z"
+   committed-rev="52"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="ConfirmListModel.java"
+   revision="52"
+   checksum="6d6ab9d9aa33219b67852ca26cc10ce5"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-03-30T08:12:34.296000Z"
+   committed-rev="52"
+   kind="file"
+   committed-date="2011-03-30T11:26:48.851000Z"/>
+<entry
+   name="EntryTableModel.java"
+   revision="64"
+   checksum="ff99c9ebe98fa88970719dc4861571b9"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-04-06T05:29:37.593000Z"
+   committed-rev="64"
+   kind="file"
+   committed-date="2011-04-06T05:51:29.245000Z"/>
+<entry
+   name="UploadFileListModel.java"
+   revision="46"
+   checksum="1762d7f7d04a6a9cfc002431e3d091a2"
+   last-author="BarryWey@gmail.com"
+   text-time="2011-02-18T03:31:34.328000Z"
+   committed-rev="46"
+   kind="file"
+   committed-date="2011-02-20T13:30:25.444000Z"/>
+</wc-entries>

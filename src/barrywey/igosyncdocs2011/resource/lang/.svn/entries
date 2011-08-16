@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://igosyncdocs.googlecode.com/svn"
+   name=""
+   revision="36"
+   last-author="BarryWey@gmail.com"
+   url="https://igosyncdocs.googlecode.com/svn/iGoSyncDocs-2011/src/barrywey/igosyncdocs2011/resource/lang"
+   committed-rev="36"
+   kind="dir"
+   committed-date="2011-02-06T16:46:48.548000Z"/>
+<entry
+   name="LanguageResource.properties"
+   revision="72"
+   checksum="47920a334f84617a9628bf4cb360bfc5"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:13:41.000000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="LanguageResource_en_US.properties"
+   revision="72"
+   checksum="47920a334f84617a9628bf4cb360bfc5"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:13:41.125000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="LanguageResource_ja_JP.properties"
+   revision="0"
+   schedule="add"
+   kind="file"/>
+<entry
+   name="LanguageResource_zh_CN.properties"
+   revision="72"
+   checksum="0af96fc3081cd35d6f835ca6f90555a1"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:13:41.250000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+<entry
+   name="LanguageResource_zh_TW.properties"
+   revision="72"
+   checksum="8899c3f8e5243c6ed188ce9a58d27612"
+   last-author="BarryWey@gmail.com"
+   committed-rev="72"
+   text-time="2011-04-22T07:13:41.359000Z"
+   kind="file"
+   committed-date="2011-04-22T07:35:00.922000Z"/>
+</wc-entries>
